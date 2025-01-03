@@ -1,2 +1,2 @@
 # c-project
-auther-yukta sharma
+author-yukta sharma
